@@ -5,7 +5,7 @@ Transmisión de archivos
 Hosting Barato Normal --> /public_html/ <-- FTP
 	index.php
 	images
-	www.sitio.com
+	www.dominio.com
 
 Problemas
 1. Multiples personas en el equipo
